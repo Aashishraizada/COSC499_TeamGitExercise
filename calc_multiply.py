@@ -1,5 +1,5 @@
 def mult():
-    a,b = None
+    a,b = None, None
     while True:
         a, b = input("Enter Two Numbers to Multiply: ").split()
         try:
@@ -11,3 +11,4 @@ def mult():
     product = a * b
     print(f'The Product of {a} and {b} is {product}')
     
+
