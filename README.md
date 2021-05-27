@@ -19,6 +19,7 @@ Takes input from user and an operation
 </ul>
 
 #### Multiplication
+    Takes two numeric arguments and returns a string showing the product
 
 #### Division
 * Returns an error message if the denominator is zero
