@@ -22,4 +22,5 @@ Takes input from user and an operation
     Takes two numeric arguments and returns a string showing the product
 
 #### Division
-
+* Returns an error message if the denominator is zero
+* Returns the result otherwise
