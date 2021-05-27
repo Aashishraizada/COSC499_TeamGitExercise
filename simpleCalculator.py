@@ -2,8 +2,8 @@ import math
 
 #functions below
 def add(a,b):
-     result = a +b
-     return result 
+     sum = a +b
+     return f'{a} + {b} = {sum}' 
 
 
 #main code below
