@@ -3,6 +3,12 @@ import math
 #functions below
 
 
+def divide(a,b):
+    if(b == 0):
+        return "Division cannot be performed with denominator 0"
+    else:
+        return "{0} / {1} = {2}".format(a, b, int(a/b))
+
 
 #main code below
 
