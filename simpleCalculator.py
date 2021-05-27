@@ -1,7 +1,9 @@
 import math
 
 #functions below
-
+def add(a,b):
+     result = a +b
+     return result 
 
 
 #main code below
