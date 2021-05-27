@@ -3,6 +3,12 @@ import math
 #functions below
 
 
+def multiply(a, b):
+    product = a * b
+    return f'{a} * {b} = {product}'
+
+
+
 
 #main code below
 
