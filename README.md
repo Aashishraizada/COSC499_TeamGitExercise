@@ -21,4 +21,5 @@ Takes input from user and an operation
 #### Multiplication
 
 #### Division
-
+* Returns an error message if the denominator is zero
+* Returns the result otherwise
