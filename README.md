@@ -4,23 +4,21 @@
 ## Calculator
 
 ### Main
-Takes input from user and an operation
+* Seeks two numeric arguments as input from the user
+* Seeks the operation to be performed as input from the user
+* Performs the necessary checks and calls the appropriate functions accordingly
 
 ### Operations
 
 #### Addition
-* Promps user to give two numbers as an input
-* add function produces the sum of the two numbers
-> Note: input should be in the form of: num1 space num2
+* Takes two numeric arguments and returns a string showing the addition
 
 #### Subtraction
-<ul>
-    <li>Prompts the user to enter two integers into the function</li>
-</ul>
+* Takes two numeric arguments and returns a string showing the difference
 
 #### Multiplication
-    Takes two numeric arguments and returns a string showing the product
+* Takes two numeric arguments and returns a string showing the product
 
 #### Division
+* Takes two numeric arguments and returns a string showing the division
 * Returns an error message if the denominator is zero
-* Returns the result otherwise
