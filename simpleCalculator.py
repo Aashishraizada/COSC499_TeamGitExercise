@@ -5,6 +5,9 @@ def add(a,b):
      sum = a +b
      return f'{a} + {b} = {sum}' 
 
+def subtract(a, b):
+    sub = a - b
+    return f'{a} - {b} = {sub}'
 
 def divide(a,b):
     if(b == 0):
